@@ -11,3 +11,7 @@ A simple, semantic HTML resume based on a provided design layout.
 ## 📸 Screenshot
 
 ![Resume Screenshot](screenshots/Assignment_Resume.png)
+
+
+# My Project
+You can view the live page here: [HTML Resume Page](https://suryanva.github.io/HTML_ResumePage_Assignment/)
